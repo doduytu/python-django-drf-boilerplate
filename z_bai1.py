@@ -1,0 +1,1 @@
+print("bài 1: viết chương trình nhập 3 số dương a,b,c . kiểm tra xem 3 số này có tạo thành một tam giác")

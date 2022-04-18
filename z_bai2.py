@@ -1,0 +1,1 @@
+print("bài 2: Viết chương trình nhập vào ngày, tháng, năm. tính tổng số ngày từ đầu năm cho tới ngày nhập vào.")

@@ -1,0 +1,1 @@
+print("bài 4: viết chương trình in ra dãy số nguyên tố, số hoàn hảo từ 1 ~ n ( n là số nguyên nhập vào)")

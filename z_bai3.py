@@ -1,0 +1,1 @@
+print("bài 3: viết chương trình kiểm tra 1 số có phải là số nguyên tố, số hoàn hảo")
